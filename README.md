@@ -1,5 +1,8 @@
 # Paddle_Temp_Files
 
+Checking different files types
+
+
 ```python
 >from glob import glob
 >import imghdr
@@ -18,3 +21,5 @@ FileName Extension: jpg , imghdr return: jpeg
 FileName Extension: webp, imghdr return: webp
 
 ```
+
+
